@@ -1,2 +1,1 @@
-# Hockey
-Actividad integradora
+# Migthy Ducks Hockey League
